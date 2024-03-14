@@ -1,0 +1,11 @@
+{
+  "hash": "a11b607aa35a7b3fef771c25772c0d1f",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Preface\n---\n\nThis is a Quarto book.\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n# Description\n\n$$\n\\int_0^1 \\mathbf{x} d\\Omega\n$$\n\n",
+    "supporting": [
+      "index_files/figure-pdf"
+    ],
+    "filters": []
+  }
+}
